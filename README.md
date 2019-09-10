@@ -7,4 +7,4 @@
 ## Index
 
 1. [Investment & Speculate](InvestmentAndSpeculate.md)
-
+2. [Architecture of Chinese Investment Market](ChineseMarket.md)
